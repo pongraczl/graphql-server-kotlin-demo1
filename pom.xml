@@ -40,6 +40,14 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+
+		<!-- GraphQL -->
+		<dependency>
+			<groupId>com.expediagroup</groupId>
+			<artifactId>graphql-kotlin-spring-server</artifactId>
+			<version>4.0.1</version>
+		</dependency>
+
 	</dependencies>
 
 	<build>

@@ -1,0 +1,3 @@
+graphql:
+  packages:
+    - "com.github.pongraczl.example.graphqlserverkotlindemo1.graphql"
